@@ -1,7 +1,7 @@
 ### Hi 👋👋👋
-I'm Vladik, a passionate Junior Backend Software Engineer (Java) with a BSc in Computer Science. Skilled in Java, SQL, OOP, SOLID and design patterns. 
+I'm Vladik, a passionate Junior Backend Software Engineer (Java) with a BSc in Computer Science. Skilled in Java, SQL, NoSQL, OOP, SOLID and design patterns. 
 Experienced in implementing architectural solutions, new features, and code refactoring. 
-Proficient in Spring Framework, Hibernate, microservices, Docker, Kubernetes, and RESTful API, WebSocket, gRPC design.
+Proficient in Spring core, Spring Framework, Spring-Boot, Spring-Security, Spring-Data-Jpa, Hibernate, microservices, Docker, Kubernetes, and RESTful API, WebSocket, gRPC design.
 
 
 <!--
