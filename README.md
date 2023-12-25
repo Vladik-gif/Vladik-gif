@@ -5,7 +5,6 @@
 
 - 💬 Ask me about **spring, PostgresQL, SOLID, OPP, REST API, WebSocket**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
