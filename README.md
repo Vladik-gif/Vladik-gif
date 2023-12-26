@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vladik</h1>
-<h3 align="center"> Junior Backend Software Engineer (Java) </h3>
 
 - 🔭 I’m currently working on [Todo-Tack](https://github.com/Vladik-gif/Todo-task), [Chat](https://github.com/Vladik-gif/ChatWS)
 
