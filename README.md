@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vladik</h1>
 
-- 🔭 I’m currently working on [Todo-Tack](https://github.com/Vladik-gif/Todo-task), [Chat](https://github.com/Vladik-gif/ChatWS)
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
+
+- 🔭 I’m currently working on [TaskManager](https://github.com/Vladik-gif/TaskManager), [Marketplace](https://github.com/Tech-Harbor/Marketplace_backend)
 
 - 💬 Ask me about **spring, PostgresQL, SOLID, OPP, REST API, WebSocket**
 
