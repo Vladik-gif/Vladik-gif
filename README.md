@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [TaskManager](https://github.com/Vladik-gif/TaskManager), [Marketplace](https://github.com/Tech-Harbor/Marketplace_backend)
 
-- 💬 Ask me about **spring, PostgresQL, SOLID, OPP, REST API, WebSocket**
+- 💬 Ask me about **spring, PostgresQL, SOLID, OPP, REST API, WebSocket, GraphQL**
 
 <p align="left">
 </p>
