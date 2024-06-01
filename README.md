@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
 
+---
+
 - 🔭 I’m currently working on [Internet-shop](https://github.com/Tech-Harbor/Marketplace_backend)
 - 💬 Ask me about **spring, PostgresQL, SOLID, OPP, REST API, WebSocket, GraphQL**
 
