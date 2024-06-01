@@ -5,7 +5,7 @@
 ---
 
 - 🔭 I’m currently working on [Internet-shop](https://github.com/Tech-Harbor/Marketplace_backend)
-- 💬 Ask me about **spring, PostgresQL, SOLID, OPP, REST API, WebSocket, GraphQL**
+- 💬 Ask me about **Spring, PostgresQL, WebSocket, GraphQL, SOLID, OPP, REST API, Kiss**
 
 ---
 
