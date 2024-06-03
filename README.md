@@ -15,4 +15,5 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vladik-gif&show_icons=true&locale=en&layout=compact&langs_count=6&theme=vue-dark" alt="Vladik-gif" /></p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ivanruskevych&label=Profile%20views&color=0e75b6&style=flat" alt="Vladik-gif" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Vladik-gif&label=Profile%20views&color=0e75b6&style=flat" alt="Vladik-gif" /></p>
+<img align="left" src="https://komarev.com/ghpvc/?username=Vladik-gif&label=Profile%20Views%20&color=AC1F21&style=flat-square" alt="Vladik-gif" />
