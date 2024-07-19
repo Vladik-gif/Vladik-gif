@@ -6,7 +6,7 @@
 
 <details open> 
   <summary><h2>⚡️ My Projects ⚡️</h2></summary>
-  <p align="center">
+  <p align="left">
     <a href="https://github.com/Tech-Harbor/oranger_backend">
             <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vladik-gif&repo=Orbis_API&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&hide_border=false&border_radius=10&icon_color=2f81f7&show_icons=true" alt="Oranger_backend">
     </a>
