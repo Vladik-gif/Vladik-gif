@@ -10,9 +10,6 @@
     <a href="https://github.com/Tech-Harbor/oranger_backend">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tech-Harbor&repo=oranger_backend&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&hide_border=false&border_radius=10&icon_color=2f81f7&show_icons=true" alt="oranger_backend">
     </a>
-    <a href="https://github.com/Vladik-gif/game_shop_backend">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vladik-gif&repo=game-shop&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&hide_border=false&border_radius=10&icon_color=2f81f7&show_icons=true" alt="game_shop_backend">
-    </a>
   </p>
   
 </details>
